@@ -1,0 +1,6 @@
+{
+  "name": "MTS GYM | Luxury Fitness & Strength Club Shivpuri",
+  "description": "Official website for MTS GYM in Shivpuri, Madhya Pradesh. Eat. Sleep. Lift. Repeat. Premium strength training, modern equipment, and dedicated fitness community led by Manish T. Sharma & Tamanna Ish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
